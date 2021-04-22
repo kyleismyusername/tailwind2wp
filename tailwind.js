@@ -96,5 +96,6 @@ module.exports = {
             addUtilities(utils, ['responsive'])
         },
         require('@tailwindcss/typography'),
+        require('@tailwindcss/forms'),
     ]
 };
